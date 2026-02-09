@@ -1,4 +1,4 @@
-public class edsaeno {
+public class edsaeno implements CUASI{
     @Override
     public void cuasi(){
         System.out.println("Soy edsaeno");
