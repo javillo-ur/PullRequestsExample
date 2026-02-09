@@ -1,3 +1,5 @@
 public interface CUASI {
-    public void cuasi();
+    public  void cuasi();
+
+
 }
