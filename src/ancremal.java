@@ -1,6 +1,6 @@
-public class javillo implements CUASI {
+public class ancremal implements CUASI {
     @Override
     public void cuasi(){
-        System.out.println("Soy javillo");
+        System.out.println("Soy Andrea");
     }
 }
